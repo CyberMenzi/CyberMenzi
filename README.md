@@ -31,6 +31,10 @@ A GUI-based tool that encrypts and decrypts messages to ensure secure communicat
 ### 📊 [StudentExpenseTrackerLibrary](https://github.com/CyberMenzi/StudentExpenseTrackerLibrary)
 Helps students manage their monthly expenses via a user-friendly interface. Great for learning budgeting!
 
+### 📘 [StudentDBManagementSystem](https://github.com/CyberMenzi/StudentDBManagementSystem)  
+A Java-based system using JDBC to manage student records in a database. Supports adding, updating, deleting, and retrieving student data via a clean DAO structure.
+
+
 ---
 
 ## 📫 Let’s Connect
