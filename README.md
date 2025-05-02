@@ -34,6 +34,10 @@ Helps students manage their monthly expenses via a user-friendly interface. Grea
 ### 📘 [StudentDBManagementSystem](https://github.com/CyberMenzi/StudentDBManagementSystem)  
 A Java-based system using JDBC to manage student records in a database. Supports adding, updating, deleting, and retrieving student data via a clean DAO structure.
 
+### 🚗 [CarModelDBApp](https://github.com/CyberMenzi/CarModelDBApp)  
+A command-line Java application that queries a car database using JDBC. Features include displaying car makes, finding the oldest model, and calculating total/maximum/minimum values.
+
+
 
 ---
 
