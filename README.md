@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**CyberMenzi/CyberMenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Menzi Mhlauli
 
-Here are some ideas to get you started:
+🎓 Final-year Information Technology student at Tshwane University of Technology  
+💻 Passionate about building real-world solutions with code  
+🔐 Interested in cybersecurity, Java development, and networking  
+📍 Based in Alexandra, South Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm an aspiring software developer and ethical hacker with a focus on solving everyday problems through practical, user-friendly applications. I'm currently seeking **Work-Integrated Learning (WIL)** or **internship opportunities** where I can grow, contribute, and gain real-world experience.
+
+---
+
+## 🧠 Skills & Tools
+
+- 👨‍💻 Languages: Java, Python (beginner)
+- 🛠️ Tools: NetBeans, Git, GitHub, VirtualBox, Wireshark
+- 📡 Concepts: Networking, Cybersecurity fundamentals, GUI-based application design
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 [SecureMessagesFrameLibrary](https://github.com/CyberMenzi/SecureMessagesFrameLibrary)
+A GUI-based tool that encrypts and decrypts messages to ensure secure communication. Built with Java Swing.
+
+### 📊 [StudentExpenseTrackerLibrary](https://github.com/CyberMenzi/StudentExpenseTrackerLibrary)
+Helps students manage their monthly expenses via a user-friendly interface. Great for learning budgeting!
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/menzi-mhlauli)
+- 📧 Email: menzimhlauli01@gmail.com  
+- 🌍 Open to collaboration, mentorship, and internship opportunities
+
+---
+
+> “I’m not just learning to code — I’m learning to solve problems and create impact.”
+
+
